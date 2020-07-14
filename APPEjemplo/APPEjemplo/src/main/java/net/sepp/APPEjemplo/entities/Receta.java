@@ -72,6 +72,6 @@ public class Receta {
         this.dificultad = dificultad;
     }
 
- 
+ //sad
 
 }
