@@ -1,4 +1,4 @@
-package net.sepp.repository;
+package net.sepp.APPEjemplo.repository;
 
 import java.util.List;
 
